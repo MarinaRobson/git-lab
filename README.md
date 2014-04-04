@@ -10,4 +10,4 @@ CSCI 104 - Lab 11 with Alice &amp;&amp; Bob
 +Thurs 5pm  
 
 
-![Grinch Octocat](https://octodex.github.com/grinchtocat/)
+![Grinch Octocat](http://octodex.github.com/grinchtocat/)  
