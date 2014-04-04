@@ -11,4 +11,4 @@ CSCI 104 - Lab 11 with Alice &amp;&amp; Bob
 
 
 
-![Grinch Octocat] (https://octodex.github.com/grinchtocat)
+![Grinch Octocat](https://octodex.github.com/grinchtocat/)
